@@ -1,5 +1,4 @@
-!(PROJECT..jpg)
-
+![Demo](PROJECT..jpg)
 # Snowflake Food Aggregator Data Pipeline project
 
 ## Overview
