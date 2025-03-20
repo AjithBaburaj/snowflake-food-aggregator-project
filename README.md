@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project demonstrates how food aggregators and quick-commerce platforms leverage Snowflake to manage their data pipelines efficiently. The tutorial walks through the complete process, from ingesting raw order data to transforming it into a structured data warehouse using a three-layer architecture.
+This project demonstrates how food aggregators and quick-commerce platforms leverage Snowflake, which operates on AWS Cloud, to manage their data pipelines efficiently. The tutorial walks through the complete process, from ingesting raw order data to transforming it into a structured data warehouse using a three-layer architecture.
 
 We explore the journey of data through Snowflake—from staging to cleaning and finally to consumption—where it is optimized for analytics. The project also includes a Streamlit-based interactive dashboard that provides key business insights, such as revenue trends, order metrics, and customer behavior. Whether you're a beginner or looking for a hands-on Snowflake data engineering experience, this project provides a step-by-step guide to building a scalable ETL/ELT pipeline.
 
