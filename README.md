@@ -8,7 +8,7 @@ This project demonstrates how food aggregators and quick-commerce platforms leve
 We explore the journey of data through Snowflake—from staging to cleaning and finally to consumption—where it is optimized for analytics. The project also includes a Streamlit-based interactive dashboard that provides key business insights, such as revenue trends, order metrics, and customer behavior. Whether you're a beginner or looking for a hands-on Snowflake data engineering experience, this project provides a step-by-step guide to building a scalable ETL/ELT pipeline.
 
 ## Architecture
-![Demo](ARCHITECTURE..jpg)
+![Demo](ARCHITECTURE.jpg)
 
 1. **Data Ingestion**: Data is loaded into Snowflake's stage location.
 2. **Staging Layer**: Data is copied from the stage to a raw table using Snowflake's Snowsight and COPY command.
