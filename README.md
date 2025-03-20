@@ -1,5 +1,4 @@
-# snowflake-food-aggregator-project
-# Snowflake Food Aggregator Data Pipeline
+# Snowflake Food Aggregator Data Pipeline project
 
 ## Overview
 
